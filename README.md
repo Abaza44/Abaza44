@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Abaza44
-- 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Embedded Interfacing
 - 📫 How to reach me abazaa050@gmail.com
