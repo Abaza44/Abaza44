@@ -35,7 +35,7 @@
 ---
 
 ### 🌐 Connect with Me:
-<a href="https://linkedin.com/in/abdelrahman-abaza-9200a4266" target="_blank">
+<a href="https://linkedin.com/in/abaza-dev" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://wa.me/201149047545" target="_blank">
