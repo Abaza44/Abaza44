@@ -49,15 +49,16 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abaza44&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 
-
-
-
-
-**C#**  
-![C#](https://progress-bar.dev/80/?title=C%23&width=300)  
+## 📊 Top Languages
 
 **C++**  
-![C++](https://progress-bar.dev/95/?title=C%2B%2B&width=300)  
+![C++](https://img.shields.io/badge/████████████████████-95%25-00599C?style=flat)
+
+**C#**  
+![C#](https://img.shields.io/badge/████████████████░░-80%25-239120?style=flat)
+
+
+
 
 
 
