@@ -52,12 +52,12 @@
 
 
 
-### Skills
 
-C#  
-![C#](https://progress-bar.dev/80/?title=C%23&width=300)
+**C#**  
+![C#](https://progress-bar.dev/80/?title=C%23&width=300)  
 
-C++  
-![C++](https://progress-bar.dev/95/?title=C%2B%2B&width=300)
+**C++**  
+![C++](https://progress-bar.dev/95/?title=C%2B%2B&width=300)  
+
 
 
