@@ -53,5 +53,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaza44&hide=html,css,javascript&theme=radical" alt="Top Languages" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaza44&langs_count=2&theme=radical" alt="Top Languages" />
 
