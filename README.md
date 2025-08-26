@@ -49,10 +49,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abaza44&layout=compact&theme=radical" />
-
-
-
-
 
 
