@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 👨‍💻 CS student at Zagazig University, passionate about backend and security
+- 👨‍💻 Communication student at Zagazig University, passionate about backend and security
 - 🧠 Currently training in .NET at DEPI & Network Security at Huawei NTI
 - 🚀 Leading technical teams at GDG Campus & Zigzag Club
 - 🎯 Skilled in C, C++, and building scalable backend systems with C# & .NET
